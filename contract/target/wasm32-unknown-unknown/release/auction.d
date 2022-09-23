@@ -1,0 +1,1 @@
+/mnt/e/Code/Hackathon/Hackathon_Auction_near/Auction/contract/target/wasm32-unknown-unknown/release/auction.wasm: /mnt/e/Code/Hackathon/Hackathon_Auction_near/Auction/contract/src/auction.rs /mnt/e/Code/Hackathon/Hackathon_Auction_near/Auction/contract/src/lib.rs /mnt/e/Code/Hackathon/Hackathon_Auction_near/Auction/contract/src/nft.rs
