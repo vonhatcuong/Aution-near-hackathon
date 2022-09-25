@@ -1,0 +1,11 @@
+e:\Code\Hackathon\Auction\integration-tests\target\debug\deps\near_units_core-994f2c03b6b4b473.rmeta: C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs
+
+e:\Code\Hackathon\Auction\integration-tests\target\debug\deps\libnear_units_core-994f2c03b6b4b473.rlib: C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs
+
+e:\Code\Hackathon\Auction\integration-tests\target\debug\deps\near_units_core-994f2c03b6b4b473.d: C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs
+
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\lib.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\gas.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\near.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\prefixes.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\near-units-core-0.2.0\src\util.rs:

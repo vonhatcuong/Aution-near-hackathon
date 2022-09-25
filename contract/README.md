@@ -47,9 +47,9 @@
 #### 4. Check storage:
 > near call $ID_MASTER get_all_auctions --accountId $ID_MASTER
 >
-> near call $ID_MASTER get_all_auctions_closed --accountId $ID_MASTER
+> near call $ID_MASTER get_auctions_closed --accountId $ID_MASTER
 >
-> near call $ID_MASTER get_auction_by_id '{"auction_id": 1}' --accountId $ID_MASTER
+> near call $ID_MASTER get_auction_id '{"auction_id": 1}' --accountId $ID_MASTER
 >
 > near call $ID_MASTER get_all_tokens --accountId $ID_MASTER
 >

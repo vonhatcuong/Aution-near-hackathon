@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=e:\Code\Hackathon\Auction\contract\target\debug\build\typenum-57198b3f5b890811\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=e:\Code\Hackathon\Auction\contract\target\debug\build\typenum-57198b3f5b890811\out\op.rs

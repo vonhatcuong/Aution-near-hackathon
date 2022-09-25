@@ -181,7 +181,7 @@ impl Contract {
         self.auction_is_going.clone() // get all auction is going
     }
 
-    pub fn get_all_auctions_closed(&self) -> Vec<AuctionId> {
+    pub fn get_auctions_closed(&self) -> Vec<AuctionId> {
         self.auction_closed.clone() // get all auction closed
     }
 
@@ -189,7 +189,7 @@ impl Contract {
         self.token_by_id.iter().map(|(k, _)| k).collect() // get all token
     }
 
-    pub fn get_auction_by_id(&self, auction_id: AuctionId) -> Option<Auction> {
+    pub fn get_auction_id(&self, auction_id: AuctionId) -> Option<Auction> {
         self.auction_by_id.get(&auction_id) // get auction by id
     }
 
