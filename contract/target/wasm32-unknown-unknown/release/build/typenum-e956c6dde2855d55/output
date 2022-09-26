@@ -1,2 +1,2 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/e/Code/Hackathon/Hackathon_Auction_near/Auction/contract/target/wasm32-unknown-unknown/release/build/typenum-e956c6dde2855d55/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/e/Code/Hackathon/Hackathon_Auction_near/Auction/contract/target/wasm32-unknown-unknown/release/build/typenum-e956c6dde2855d55/out/op.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/e/Code/Hackathon/Auction/contract/target/wasm32-unknown-unknown/release/build/typenum-e956c6dde2855d55/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/e/Code/Hackathon/Auction/contract/target/wasm32-unknown-unknown/release/build/typenum-e956c6dde2855d55/out/op.rs

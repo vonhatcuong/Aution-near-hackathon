@@ -1,0 +1,13 @@
+e:\Code\Hackathon\Auction\integration-tests\target\debug\deps\uuid-00e22f625a987032.rmeta: C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\lib.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\mod.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\error.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\error.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\mod.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\error.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\prelude.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\adapter\mod.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\v4.rs
+
+e:\Code\Hackathon\Auction\integration-tests\target\debug\deps\uuid-00e22f625a987032.d: C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\lib.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\mod.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\error.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\error.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\mod.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\error.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\prelude.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\adapter\mod.rs C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\v4.rs
+
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\lib.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\mod.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\error.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\error.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\mod.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\error.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\prelude.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\adapter\mod.rs:
+C:\Users\vonha\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\v4.rs:
