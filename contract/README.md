@@ -9,7 +9,7 @@
 ## Setup for Demo
 
 ### 1. Setup Master Account
-> SELLER=seller_1.testnet ( your_account.testnet )
+> SELLER=seller_uit.testnet ( your_account.testnet )
 
 ### 2. Setup sub account
 > ID1=sub_acc1.$SELLER
